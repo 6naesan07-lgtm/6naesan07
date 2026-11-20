@@ -1,0 +1,6 @@
+{
+  "name": "크라켄 다리 베기",
+  "description": "크라켄의 촉수 공격을 대시로 피하고 노출된 약점을 베어 다리를 자르는 2D 해양 액션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
